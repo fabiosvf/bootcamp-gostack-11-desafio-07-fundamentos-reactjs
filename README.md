@@ -7,6 +7,12 @@
 - [Instruções para o Desafio](docs/Desafio%2007%20-%20Instru%C3%A7%C3%B5es.pdf)
 - [CSV Modelo para Importação](docs/file.csv)
 
+## Protótipo - GoFinances Web
+
+|Dashboard|Import|
+|-|-|
+|![Dashboard](docs/Dashboard.png)|![Import](docs/Import.png)|
+
 ---
 
 ## Tecnologias utilizadas
